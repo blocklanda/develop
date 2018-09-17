@@ -13,4 +13,4 @@ Since early 2017, various countries have begun to utilize Blockchain technology 
 
 ## **Approach**
 
-A blockchain-based approach to registering property titles to increase the efficiency of transaction processing and reduce property fraud.
+A blockchain-based approach to registering property titles to increase the efficiency of transaction processing and reduce property fraud..
