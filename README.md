@@ -8,7 +8,7 @@ Throughout the world, there are thousands of plots of land where the rightful ow
 
 Since early 2017, various countries have begun to utilize Blockchain technology to facilitate the ownership of land and properties in a decentralized, transparent and immutable network.
 
-"Bringing clarity to land ownership rights will not only reduce corruption, but will also open up trillions of dollars in locked capital.
+"Bringing clarity to land ownership rights will not only reduce corruption, but will also open up trillions of dollars in locked capital".
 
 ## **Approach**
 
