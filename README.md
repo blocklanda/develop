@@ -16,4 +16,4 @@ A blockchain-based approach to registering property titles to increase the effic
 
 ## **Acknowledgements**
 
-This is a project initiated by @kojof and fellow [contributors](https://github.com/blocklanda/develop/graphs/contributors) @aebirim and @zinthawtun.
+This is a project initiated by @kojof and fellow [contributors](https://github.com/blocklanda/develop/graphs/contributors) @aebirim and @zinthawtun..
