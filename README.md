@@ -1,4 +1,3 @@
-
 # Land Registry on the Blockchain
 
 ## **Summary**
@@ -14,3 +13,7 @@ Since early 2017, various countries have begun to utilize Blockchain technology 
 ## **Approach**
 
 A blockchain-based approach to registering property titles to increase the efficiency of transaction processing and reduce property fraud.
+
+## **Acknowledgements**
+
+This is a project initiated by @kojof and fellow [contributors](https://github.com/blocklanda/develop/graphs/contributors) @aebirim and @zinthawtun.
