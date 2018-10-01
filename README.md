@@ -14,6 +14,10 @@ Since early 2017, various countries have begun to utilize Blockchain technology 
 
 A blockchain-based approach to registering property titles to increase the efficiency of transaction processing and reduce property fraud.
 
+## **Working documents**
+
+[BlockLandRegistry](https://docs.google.com/document/d/1aLnawH-7sYXg76hdI4gGzrjIa9B7edbmW9WtkQHV4j4/edit?ts=5ba94c70)
+
 ## **Acknowledgements**
 
 This is a project initiated by @kojof and fellow [contributors](https://github.com/blocklanda/develop/graphs/contributors) @aebirim and @zinthawtun..
